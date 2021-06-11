@@ -6,9 +6,9 @@
 
 ### Screenshorts
 
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/home-page.png"/>
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/products-page.png"/>
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/registration-page.png"/>
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/login-page.png"/>
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/orders-page.png"/>
-<img src="https://github.com/CyberWorrior/E-COMMERCE-SERN-STACK/blob/master/Screenshots/cart_check_out-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/home-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/products-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/registration-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/login-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/orders-page.png"/>
+<img src="https://github.com/amn-max/E-COMMERCE/blob/master/Screenshots/cart_check_out-page.png"/>
